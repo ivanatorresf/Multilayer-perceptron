@@ -105,6 +105,6 @@ of a certain pattern from a set of input predictive variables (discrete and / or
  
 #### Authors: 
 #### Titule: Multilayer Perceptron Classifier
-###### Hernandez Garcia Rigoberto           15212157
+###### HERNANDEZ GARCIA RIGOBERTO           15212157
 ###### HERNÁNDEZ BOCANEGRA MIGUEL ANGEL     14211440
 ###### TORRES FLORES IVAN ADRIAN		    13210388
