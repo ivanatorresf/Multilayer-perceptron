@@ -43,9 +43,9 @@ Furthermore, setting the optimal values of these parameters are a matter of hype
 ### Base_and_Activation_Functions
 Base Function (Network Function)
 The base function has two typical forms:
-Hyperplane linear function: The network value is a linear combination of the Inputs.
+* Hyperplane linear function: The network value is a linear combination of the Inputs.
 ![Hyperplane linear function ](https://github.com/hegr54/Multilayer-perceptron/tree/Unidad_2/Unidad_2/Imagen/funcion.png)
-Hyper spherical radial function: it is a nonlinear second order base function. The network value represents the distance to a specific reference pattern.
+* Hyper spherical radial function: it is a nonlinear second order base function. The network value represents the distance to a specific reference pattern.
 ![Hyper spherical radial function](https://github.com/hegr54/Multilayer-perceptron/tree/Unidad_2/Unidad_2/Imagen/funcion2.png)
 
 Activation Function (Neuron Function)
